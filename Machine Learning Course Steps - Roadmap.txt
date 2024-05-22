@@ -1,0 +1,24 @@
+Machine Learning Course Steps
+
+Step 0 - Python Fundamentals, NumPy, Pandas, Matplotlib, Seaborn
+       - https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp
+
+Step 1 - Get your Maths Right
+       - https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
+       - https://www.coursera.org/learn/matrix-algebra-engineers
+
+Step 2 - Start the Basics of ML and its Algorithms with Basics of Neural Networks
+       - https://www.coursera.org/specializations/machine-learning-introduction
+       - https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+
+Step 3 - Deep Dive into Neural Networks and Deep Learning
+       - https://www.coursera.org/learn/neural-networks-deep-learning
+       - https://www.coursera.org/specializations/deep-learning
+
+Extras - https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a (LINEAR ALGEBRA)
+       - https://www.youtube.com/playlist?list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx (CALCULUS)
+       - https://www.youtube.com/playlist?list=PLRDl2inPrWQWwJ1mh4tCUxlLfZ76C1zge (PROBABILITY)
+       - https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX (NLP)
+       - https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST (STATISTICS)
+       - https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH (100 DAYS OF ML)
+       - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn (100 DAYS OF DL)
