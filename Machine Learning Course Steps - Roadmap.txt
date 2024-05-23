@@ -22,3 +22,4 @@ Extras - https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2
        - https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST (STATISTICS)
        - https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH (100 DAYS OF ML)
        - https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn (100 DAYS OF DL)
+       - https://mml-book.github.io/ (MATHS FOR ML)
