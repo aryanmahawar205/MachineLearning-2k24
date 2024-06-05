@@ -6,4 +6,4 @@
 -> Creating a model. Here we have used Decision Tree Algorithm. <br>
 -> Training the model with the Training set. <br>
 -> Making Predictions with certain level of accuracy. <br>
--> Evaluating and improving accuracy by fine tuning procedures, Not done for this particular model. <br>
+-> Evaluating and improving accuracy by fine tuning procedures. Not done for this particular model. <br>
